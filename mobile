@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>
+			My Mobile Shop
+		</title>
+		<link rel="stylesheet" href="http://zavrel.net/normalize.css">
+    <h1>
+    {
+    color:yellow;
+    }
+		
+	</head>
+  <body>
+  <h1>Welcome</h1>
+  </body>
